@@ -1,0 +1,26 @@
+{
+  "name": "stx-table",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrszapata/stx-table"
+  },
+  "author": {
+    "name": "Stanley Zapata",
+    "email": "jrszapata@hotmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrszapata/stx-table/issues"
+  },
+  "module": "stx-table.js",
+  "typings": "stx-table.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
